@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Recommender</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Select Movies You Like</h1>
+    <p>The more you choose, the better your recommendations.</p>
+
+    <form action="/recommend" method="POST">
+        <div class="movie-list">
+            {% for movie in movies %}
+                <label class="movie-item">
+                    <input type="checkbox" name="liked" value="{{ loop.index0 }}">
+                    <strong>{{ movie.title }}</strong><br>
+                    Genres: {{ movie.genres }}
+                </label>
+            {% endfor %}
+        </div>
+
+        <button type="submit">Get Recommendations</button>
+    </form>
+</body>
+</html>
