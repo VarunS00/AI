@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "genres": ["Animation", "Action"],
+    "moods": ["fun", "energetic"],
+    "description": "Teen Miles Morales becomes Spider-Man and joins other Spider-People across the multiverse."
+  },
+  {
+    "title": "Inception",
+    "genres": ["Sci-Fi", "Thriller"],
+    "moods": ["intense", "mind-bending"],
+    "description": "A skilled thief enters dreams to steal secrets but faces a dangerous mission."
+  },
+  {
+    "title": "La La Land",
+    "genres": ["Romance", "Drama"],
+    "moods": ["romantic", "uplifting"],
+    "description": "A jazz musician and an aspiring actress fall in love while chasing their dreams."
+  },
+  {
+    "title": "Paddington 2",
+    "genres": ["Family", "Comedy"],
+    "moods": ["wholesome", "feel-good"],
+    "description": "Paddington gets framed for a crime and his friends work to clear his name."
+  },
+  {
+    "title": "Get Out",
+    "genres": ["Horror", "Thriller"],
+    "moods": ["suspenseful", "smart"],
+    "description": "A man uncovers disturbing secrets when visiting his girlfriend's family."
+  },
+  {
+    "title": "Interstellar",
+    "genres": ["Sci-Fi", "Drama"],
+    "moods": ["epic", "emotional"],
+    "description": "A team travels through a wormhole to find a new home for humanity."
+  },
+  {
+    "title": "Knives Out",
+    "genres": ["Mystery", "Comedy"],
+    "moods": ["clever", "fun"],
+    "description": "A detective investigates a wealthy family's mysterious death."
+  },
+  {
+    "title": "Inside Out",
+    "genres": ["Animation", "Family"],
+    "moods": ["emotional", "thoughtful"],
+    "description": "A girl's emotions struggle to guide her through a major life change."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "genres": ["Action"],
+    "moods": ["intense", "adrenaline"],
+    "description": "Max helps rebels escape a tyrant in a high-speed desert chase."
+  },
+  {
+    "title": "Coco",
+    "genres": ["Animation", "Family"],
+    "moods": ["heartwarming", "musical"],
+    "description": "A boy enters the Land of the Dead to uncover his family's history."
+  }
+]
