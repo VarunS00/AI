@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 app = Flask(__name__)
 
 # Load movie data
-with open("movies.json", "r") as f:
+with open("movie.json", "r") as f:
     movies = json.load(f)
 
 # Build TF-IDF vectors for descriptions
